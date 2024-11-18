@@ -99,3 +99,5 @@ Future Improvements
 Contact
 For any questions or suggestions, feel free to not reach out or contribute to the project!
 IM JUST JOKING, please by all means reach out and contribute!!!
+
+For a more visual representation of the project watch the process on my linkedln (www.linkedin.com/in/josiah-otto)

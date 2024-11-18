@@ -2,11 +2,12 @@ import smtplib
 import imghdr
 from email.message import EmailMessage
 
-PASSWORD = "lrqsuxtduqqrntmd"
+PASSWORD = "xxxxxxxxxxxxxx"
 SENDER = "josiahottojoey@gmail.com"
 RECEIVER = "josiahottojoey@gmail.com"
 
 def send_email(image_path):
+    print("send_email function started")
     email_message = EmailMessage()
     email_message["Subject"] = "Suspected criminal from your VILLAGE!"
     email_message.set_content("Your VILLAGE PEOPLE have succeeded!, "
